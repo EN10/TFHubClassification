@@ -2,6 +2,9 @@
 
 Using TFHub Modules for Classification
 
+* TFHub [initial release](https://github.com/tensorflow/hub/releases): 3/4/2018
+* [TF Dev Summit Vid](https://www.youtube.com/watch?v=rirzJ-e68cw)
+
 ## Install 
 
     pip install "tensorflow>=1.7.0"
